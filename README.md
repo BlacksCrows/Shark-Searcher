@@ -5,7 +5,7 @@
 #### This script was created as part of the Red Siege python challenge https://redsiege.com/python
 #### The script leverages the free API from https://api.ipgeolocation.io/. You will need to sigup for a free account to obtain an API key. You must change the portion of the get request in ipgeoloc.py (line 36) to your API key for the script to work. It accepts a single IP address with the -t or --target argument, a list of IPs in a text file with -f or --file argument, a single CIDR block with -c or --cidr argument, or a list of CIDR blocks with the -cf or -cfile argument. Debugging is possible with BURP or ZAp proxies using the -d or --debug argument.
 
-[![Version](https://img.shields.io/badge/version-1.3.3-red.svg)]() [![GitHub license](https://img.shields.io/github/license/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/blob/master/LICENSE) [![Python3](https://img.shields.io/badge/python-3.8.5-green.svg)]()
+[![Version](https://img.shields.io/badge/version-1.3.3-red.svg)]() [![Python3](https://img.shields.io/badge/python-3.8.5-green.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/issues)
 [![GitHub forks](https://img.shields.io/github/forks/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/network)
 [![GitHub stars](https://img.shields.io/github/stars/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/stargazers)
