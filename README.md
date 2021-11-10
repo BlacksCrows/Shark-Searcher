@@ -9,7 +9,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/issues)
 [![GitHub forks](https://img.shields.io/github/forks/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/network)
 [![GitHub stars](https://img.shields.io/github/stars/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/stargazers)
-
+[![GitHub license](https://img.shields.io/github/license/BlacksCrows/Shark-Searcher.svg)](https://github.com/BlacksCrows/Shark-Searcher/blob/master/LICENSE)
 
 **First you need to install all the dependencies so that the shark starts looking**
 
